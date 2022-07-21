@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/komalsharma2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="komalsharma2712" height="30" width="40" /></a>
+<a href="https://dev.to/komalsharma2712" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="komalsharma2712" height="30" width="40" /></a>
 <a href="https://twitter.com/komalsh50566861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="komalsh50566861" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/komal-sharma-2712-ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-sharma-2712-ks" height="30" width="40" /></a>
 <a href="https://www.behance.net/komalsharma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="komalsharma14" height="30" width="40" /></a>
