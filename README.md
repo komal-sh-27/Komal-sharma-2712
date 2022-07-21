@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [UVDesk - A ticketing system](https://support.uvdesk.com/en/)
 
-- 🌱 I’m currently learning **PHP, Symfony,**
+- 🌱 I’m currently learning **PHP, Symfony**
 
 - 💬 Ask me about **C, HTML, CSS, Python, Wordpress**
 
